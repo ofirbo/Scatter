@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{24D6601C-5574-46F6-B6BF-0B158177B60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scatter", "Scatter\Scatter.csproj", "{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Debug|x86.ActiveCfg = Debug|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Debug|x86.Build.0 = Debug|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Release|Any CPU.ActiveCfg = Release|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Release|x86.ActiveCfg = Release|x86
+		{24D6601C-5574-46F6-B6BF-0B158177B60B}.Release|x86.Build.0 = Release|x86
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D02C6625-17E3-41BC-BFD6-D217C83DD3CE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
